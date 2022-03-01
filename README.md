@@ -1,4 +1,4 @@
-Discord UI clone created with Create React App
+Discord UI clone created with Create React App and Chakra UI
 
 
 This project was bootstrapped with
